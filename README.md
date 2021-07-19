@@ -1,2 +1,3 @@
-# flutter_todo_app
-Flutter Todo App with GetX Pattern
+# Flutter TODO App
+
+Flutter TODO App with GetX Pattern, Firebase, Firestore
