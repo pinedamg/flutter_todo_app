@@ -9,11 +9,6 @@ import 'home_controller.dart';
 class HomeView extends GetView<HomeController> {
   @override
   Widget build(BuildContext context) {
-    // this.controller.todos.map((element) => print('asdasd'));
-
-    // print('LENGT');
-    // print(this.controller.todos);
-
     return Scaffold(
       appBar: AppBar(
         title: Text('TODO App'),
